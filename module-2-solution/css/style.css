@@ -1,1 +1,52 @@
+.container h3{
+	margin:40px 0px;
+   text-align:center;
+   font-weight:bold;
+   
+}
+.item {
+      
+       
+	   margin:15px 0px 15px 0px;
+	   position:relative;
+	   border :3px solid black;
+	   background-color:#7a7d7b;  
+	
+}
+#chicken{
+	float:right;
+	background: #d17d7f;
+	border :2px solid black;
+	width:35%;
+	height:30px;
+	text-align:center;
+	font-weight:bold;
+}
+#beef{
+	float:right;
+	background: #b32b38;
+	border :2px solid black;
+	width:35%;
+	height:30px;
+	text-align:center;
+	font-weight:bold;
+}
+#sushi{
+	float:right;
+	background: #f0e795;
+	border :2px solid black;
+	width:35%;
+	height:30px;
+	text-align:center;
+	font-weight:bold;
+}
+
+
+ 
+p{
+	clear: right;
+	padding: 5px;
+}
+
+	
 
